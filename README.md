@@ -14,6 +14,10 @@ Additionally, the program allows you to enter through the console (at the time o
 
 # Report
 
+First of all, this was a project for the university, so the code is written in spanish.
+
+With this clarified, we move on to the report.
+
 ## SRC
 
 In this folder is the "core" program that implements the project logic in "CLOJURE".
