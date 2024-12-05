@@ -1,7 +1,5 @@
 # L-Systems and digital imaging
 
----
-
 ## Introduction
 
 This project is based on the implementation of an L-system, which, from input files in ".sl" format, and turtle-type graphics modeling, generates digital images in ".svg" format.
